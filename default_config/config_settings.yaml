@@ -3,3 +3,5 @@ config_mapping:
   prod: 'prod'
   stage: 'stage'
   dev: 'dev'
+
+  smatflow: 'smatflow'
